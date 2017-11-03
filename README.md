@@ -24,3 +24,15 @@ How it works:
 3. Removes Null Characters
 
 4. Finds and provides URL to HTA
+
+Output if a URL is found:
+
+PS /Users/yammer/Documents/PowerShell/RTF-Cleaner> ./rtfCleanerUniversal.ps1 ../RTFs/invoice.doc  
+
+Analyzing: ../RTFs/invoice.doc
+
+180 of \{\\lchars\s*([^}]*?)\s*} Found!
+
+URL Found!
+
+https://malicious.site/fake/directory/payload.hta
