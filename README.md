@@ -35,4 +35,4 @@ Analyzing: ../RTFs/invoice.doc
 
 URL Found!
 
-https://malicious.site/fake/directory/payload.hta
+https[:]//malicious[.]site/fake/directory/payload[.]hta
