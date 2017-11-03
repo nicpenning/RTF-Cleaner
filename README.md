@@ -3,10 +3,10 @@ RTF de-obfuscator for CVE-2017-0199 documents to find URLs statically.
 
 Use this tool to statically find URLs in obfuscated RTF documents. 
 
-Usage: .\rtfCleanerUniversal1.1.ps1 path-to-file
+Usage: .\rtfCleanerUniversal.ps1 path-to-file
 
 
-Example: .\rtfCleanerUniversal1.1.ps1 'C:\Users\yams\Downloads\invoiceForYams.doc'
+Example: .\rtfCleanerUniversal.ps1 'C:\Users\yams\Downloads\invoiceForYams.doc'
 
 
 If the built in regexers don't find anything just enter what you find in the rtf file, IE pntxtb, lchars, etc... 
