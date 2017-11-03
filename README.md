@@ -13,7 +13,7 @@ Looking to build in functionality to find these and do it automatically. Its man
 
 This works for any file type that contains {\parameters} to clean.
 
-Use at your own risk! Tested on Windows and limited test on PowerShell for MacOS
+Use at your own risk! Tested on Windows and PowerShell for MacOS.
 
 How it works:
 
